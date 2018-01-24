@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/groupSNC/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/groupSNC-react-native-vector-icons-unspecified_34701f1761e5754fa71ad5bbbc9359b1a7638708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_06dae39cd9cd61c7a94968dddfeed9296c270828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_e4e08918a26bd45af4c0a266168e36f12dc5b74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_770e9405ac97f15c78ebc8d7763bb720a38809f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_374b1dd87dd08efbf9dfbf2bf62ab88933e22fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.51.0_a70cba8e3c62d98b863cb8d0774ddb92c92aac93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4f9fa26d2e21384e0e4eef0477b7ff3e221303fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b0eafa5a0cbc9da9f3323a95f6e113f9f0f39c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5cbca17d0ebcfa668ddf48e961f3922eb42c6429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_790fe28a2c1245b9354357b0c0253c359637445d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4771379904e71e729c436dfbe80e60e67585b5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6ade8da3177a9e35e3c3842eb1ddf27323d708fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f89155d9a1c66c96d3433a41444e2552fd43f17f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_84be08f428caa783d2e12ae992aa3a4b04be6623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_2afd36e828ceead6c83516d676f0ce191ae46d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a98681235e7af61ed2311428f7cb0dc65adea98f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_374ba110174050dda02de385381edc427ef87ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_880aa68d9bb2b7dc3f166f47977bcaefb267e07f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_3690b3b4e29e0d876a24578d835286ea731289de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5419604f923663925eaa145c5663b01d099f06e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_034a42b13ef7cc1f8207e66e4c4f1fa56fd5214a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vuvanhoan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/vuvanhoan/Desktop/Projects/projects/groupSNC/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d2468ea9cda467d12b50bc7b0e599c4c6a48bfc5.jar" />
+    </item>
+
+</items>
